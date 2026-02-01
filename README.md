@@ -1,5 +1,4 @@
-# Applying-supervised-learning-to-predict-student-dropout
-
+# Applying supervised learning to predict student dropout
 # Background Context
 This project leverages supervised learning techniques to predict student dropout, a critical issue in the education sector. High dropout rates can harm institutional financial stability, reputation, and student success. The project focuses on an education provider specializing in supporting international students through personalized learning paths, academic readiness programs, and innovative technology, ensuring smooth transitions into university life and enhancing the overall educational experience.
 
